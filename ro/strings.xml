@@ -1,7 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="time_for_a_break">E momentul pentru o pauză</string>
-    <string name="of_work_left">%1$d minute rămase in acest ciclu</string>
-    <string name="of_break_left">%1$d minute rămase</string>
+    <string name="of_work_left">%1$d %2$s rămase in acest ciclu</string>
+    <string name="of_break_left">%1$d %2$s rămase</string>
     <string name="work_time">Continuă să lucrezi!</string>
     <string name="liam_spradlin_title">Proiectat cu grijă de către</string>
     <string name="francisco_franco_title">Dezvoltat in mod magic de către</string>
@@ -11,13 +12,13 @@
     <string name="options_title">Opțiuni</string>
     <string name="keep_display_on_while_charging">Ține ecranul pornit pe durata încărcării</string>
     <string name="display_will_stay_on">Ecranul o sa ramana pornit</string>
-    <string name="display_will_stay_off">Setare implicita sistem</string>
+    <string name="system_default">Setare implicita sistem</string>
     <string name="rate_5217">Evaluează 5217</string>
     <string name="be_productive_and_download">Fii productiv ca mine!\n\nDescarcă 5217 - https://goo.gl/RNbx0l</string>
     <string name="reset_toast">Resetează cronometrul</string>
     <string name="retry">Reîncearcă</string>
     <string name="cancel">Anulare</string>
-    <string name="license_error">You shall not pass!</string>
+    <string name="license_error">Tu nu vei trece!</string>
     <string name="license_error_summary">Nu am reusit sa validam licenta. Contactează-ne in cazul in care consideri că e o greseală</string>
     <string name="led_off">LED-ul nu o să fie activ în 5217 pe durata ciclului</string>
     <string name="led_on">LED-ul o să fie activ în 5217 pe durata ciclului</string>
@@ -26,7 +27,22 @@
     <string name="screen_on_on">Ecranul o să rămănă pornit pe durata tranziției ciclului</string>
     <string name="screen_on_title">Utilizează ecranul pentru a indica tranziția ciclului</string>
     <string name="translate">Ajută-ne să traducem 5217</string>
-
+    <string name="vibration_title">Vibrații</string>
+    <string name="vibration_on">Dispozitivul vibrează la tranzițiile ciclului</string>
+    <string name="invite_title">Invită-ți prietenii să folosească 5217</string>
+    <string name="invite_message">Hey! Am folosit 5217 ca să îmi măresc productivitatea. Încearcă-l și tu și spune-mi dacă îți place!</string>
+    <string name="invite_cta">FII MAI PRODUCTIV</string>
+    <string name="alarm_sound_title">Sunet alarmă</string>
+    <string name="alarm_sound_title_off">Volumul crește în concordanță cu setările notificărilor</string>
+    <string name="alarm_sound_title_on">Volumul este independent de setările de sistem</string>
+    <string name="about_header_1">5217 este un simplu timer care mărește productivitatea bazat pe ciclul 52/17 proiectat de</string>
+    <string name="here">aici</string>
+    <string name="minute">minut</string>
+    <string name="minutes">minute</string>
+    <string name="start_cycle">Start ciclu</string>
+    <string name="stop_cycle">Stop ciclu</string>
+    <string name="start_cycle_disabled">Scurtătură start ciclu dezactivată</string>
+    <string name="stop_cycle_disabled">Scurtătură stot ciclu dezactivată</string>												 
     <!-- Break motivational messages -->
     <string name="cup_of_tea">\u0020- momentul pentru un ceai!</string>
     <string name="feet_up">\u0020- pune picioarele sus!</string>
